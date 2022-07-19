@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="input_name_hint">Input your nick-name</string>
+    <string name="check_button">Check</string>
+    <string name="nick_name_title">Nick name</string>
+    <string name="create_subscribe">Create / Subscribe</string>
+    <string name="user_list">User list</string>
+    <string name="write_your_name_s">Write your name, %s</string>
+    <string name="send_button">Send</string>
+    <string name="type_your_message">Type your message</string>
+</resources>
